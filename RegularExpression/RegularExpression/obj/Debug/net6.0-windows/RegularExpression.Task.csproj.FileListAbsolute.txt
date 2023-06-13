@@ -1,0 +1,12 @@
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\bin\Debug\net6.0-windows\RegularExpression.Task.deps.json
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\bin\Debug\net6.0-windows\RegularExpression.Task.dll
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\bin\Debug\net6.0-windows\RegularExpression.Task.pdb
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\obj\Debug\net6.0-windows\RegularExpression.Task.csproj.AssemblyReference.cache
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\obj\Debug\net6.0-windows\RegularExpression.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\obj\Debug\net6.0-windows\RegularExpression.Task.AssemblyInfoInputs.cache
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\obj\Debug\net6.0-windows\RegularExpression.Task.AssemblyInfo.cs
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\obj\Debug\net6.0-windows\RegularExpression.Task.csproj.CoreCompileInputs.cache
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\obj\Debug\net6.0-windows\RegularExpression.Task.dll
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\obj\Debug\net6.0-windows\refint\RegularExpression.Task.dll
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\obj\Debug\net6.0-windows\RegularExpression.Task.pdb
+C:\Users\kaan-\Documents\QABootCamp\Regex\RegularExpression\RegularExpression\obj\Debug\net6.0-windows\ref\RegularExpression.Task.dll

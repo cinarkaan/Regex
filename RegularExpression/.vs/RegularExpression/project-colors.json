@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "39993ca2-404d-45dd-8325-39ced419fb1f": {
+      "ProjectGuid": "39993ca2-404d-45dd-8325-39ced419fb1f",
+      "DisplayName": "RegularExpression.Task",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
